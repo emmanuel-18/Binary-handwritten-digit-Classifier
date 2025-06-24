@@ -39,8 +39,8 @@ The main goal of this project is not to push state-of-the-art performance, but t
 
 | Handwritten Input | Model Output |
 |-------------------|--------------|
-| ![zero](images/zero_example.png) | 0 |
-| ![one](images/one_example.png) | 1 |
+| ![zero](images/zero_example.jpg) | 0 |
+| ![one](images/one_example.jpg) | 1 |
 
 ---
 
